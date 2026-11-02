@@ -1,4 +1,4 @@
 course="Devops & Cloud Engineering"
 students=100
-echo "$course"
+echo ${course}
 echo "Students: ${students}"
