@@ -1,0 +1,94 @@
+[2026-11-03 12:26:30] INFO  Starting health check
+[2026-11-03 12:26:30] INFO  Disk usage 1%
+[2026-11-03 12:26:30] INFO  Available memory: 5385 MB
+[2026-11-03 12:26:30] INFO  CPU Usage: 100.0%
+[2026-11-03 12:26:30] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 12:26:30] ERROR 1 check(s) failed
+[2026-11-03 12:27:34] INFO  Starting health check
+[2026-11-03 12:27:35] INFO  Disk usage 1%
+[2026-11-03 12:27:35] INFO  Available memory: 5380 MB
+[2026-11-03 12:27:35] INFO  CPU Usage: 100.0%
+[2026-11-03 12:27:35] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 12:27:35] ERROR 1 check(s) failed
+[2026-11-03 12:27:37] INFO  Starting health check
+[2026-11-03 12:27:37] INFO  Disk usage 1%
+[2026-11-03 12:27:37] INFO  Available memory: 5379 MB
+[2026-11-03 12:27:37] INFO  CPU Usage: 100.0%
+[2026-11-03 12:27:37] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 12:27:37] ERROR 1 check(s) failed
+[2026-11-03 12:27:41] INFO  Starting health check
+[2026-11-03 12:27:41] INFO  Disk usage 1%
+[2026-11-03 12:27:41] INFO  Available memory: 5378 MB
+[2026-11-03 12:27:41] INFO  CPU Usage: 100.0%
+[2026-11-03 12:27:41] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 12:27:41] ERROR 1 check(s) failed
+[2026-11-03 19:19:56] INFO  Starting health check
+[2026-11-03 19:19:56] INFO  Disk usage 1%
+[2026-11-03 19:19:56] INFO  Available memory: 5381 MB
+[2026-11-03 19:19:56] INFO  CPU Usage: 100.0%
+[2026-11-03 19:19:56] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:19:56] ERROR 1 check(s) failed
+[2026-11-03 19:20:11] INFO  Starting health check
+[2026-11-03 19:20:11] INFO  Disk usage 1%
+[2026-11-03 19:20:11] INFO  Available memory: 5381 MB
+[2026-11-03 19:20:12] INFO  CPU Usage: 2.3%
+[2026-11-03 19:20:12] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:20:12] ERROR 1 check(s) failed
+[2026-11-03 19:20:15] INFO  Starting health check
+[2026-11-03 19:20:15] INFO  Disk usage 1%
+[2026-11-03 19:20:15] INFO  Available memory: 5381 MB
+[2026-11-03 19:20:15] INFO  CPU Usage: 2.3%
+[2026-11-03 19:20:15] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:20:15] ERROR 1 check(s) failed
+[2026-11-03 19:27:30] INFO  Starting health check
+[2026-11-03 19:27:30] INFO  Disk usage 1%
+[2026-11-03 19:27:30] INFO  Available memory: 5376 MB
+[2026-11-03 19:27:32] INFO  CPU Usage: 0.7%
+[2026-11-03 19:27:32] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:27:32] ERROR 1 check(s) failed
+[2026-11-03 19:27:39] INFO  Starting health check
+[2026-11-03 19:27:39] INFO  Disk usage 1%
+[2026-11-03 19:27:39] INFO  Available memory: 5379 MB
+[2026-11-03 19:27:41] INFO  CPU Usage: 100.0%
+[2026-11-03 19:27:41] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:27:41] ERROR 1 check(s) failed
+[2026-11-03 19:27:48] INFO  Starting health check
+[2026-11-03 19:27:48] INFO  Disk usage 1%
+[2026-11-03 19:27:48] INFO  Available memory: 5379 MB
+[2026-11-03 19:27:50] INFO  CPU Usage: 100.0%
+[2026-11-03 19:27:50] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:28:04] INFO  Starting health check
+[2026-11-03 19:28:04] INFO  Disk usage 1%
+[2026-11-03 19:28:04] INFO  Available memory: 5377 MB
+[2026-11-03 19:28:06] INFO  CPU Usage: 100.0%
+[2026-11-03 19:28:06] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:28:08] INFO  Starting health check
+[2026-11-03 19:28:08] INFO  Disk usage 1%
+[2026-11-03 19:28:08] INFO  Available memory: 5379 MB
+[2026-11-03 19:28:11] INFO  CPU Usage: 0.2%
+[2026-11-03 19:28:11] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:33:02] INFO  Starting health check
+[2026-11-03 19:33:02] INFO  Disk usage 1%
+[2026-11-03 19:33:02] INFO  Available memory: 5380 MB
+[2026-11-03 19:33:07] INFO  CPU Usage : 60.2%
+[2026-11-03 19:33:07] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:33:07] ERROR 1 check(s) failed
+[2026-11-03 19:33:12] INFO  Starting health check
+[2026-11-03 19:33:12] INFO  Disk usage 1%
+[2026-11-03 19:33:12] INFO  Available memory: 5378 MB
+[2026-11-03 19:33:20] INFO  CPU Usage : 60.2%
+[2026-11-03 19:33:20] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:33:20] ERROR 1 check(s) failed
+[2026-11-03 19:33:23] INFO  Starting health check
+[2026-11-03 19:33:23] INFO  Disk usage 1%
+[2026-11-03 19:33:23] INFO  Available memory: 5379 MB
+[2026-11-03 19:33:27] INFO  CPU Usage : 40.7%
+[2026-11-03 19:33:27] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:33:27] ERROR 1 check(s) failed
+[2026-11-03 19:45:54] INFO  Starting health check
+[2026-11-03 19:45:54] INFO  Disk usage 1%
+[2026-11-03 19:45:54] INFO  Available memory: 5359 MB
+[2026-11-03 19:45:59] INFO  CPU Usage : 100.0%
+[2026-11-03 19:45:59] ERROR HTTP health check failed: 000 http://localhost:8080/health
+[2026-11-03 19:45:59] ERROR HTTP health check failed: 000 http://localhost:3000/health
+[2026-11-03 19:45:59] ERROR 2 check(s) failed
